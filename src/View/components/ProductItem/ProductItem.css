@@ -1,0 +1,112 @@
+.productList_item {
+  margin-bottom: 25px;
+}
+
+.productList_bg {
+  width: 388px;
+  height: 484px;
+  border-radius: 19px;
+  background: white;
+  position: relative;
+}
+
+ .productList_bg img { 
+   position: absolute;
+} 
+
+.avatar {
+  width: 45px;
+  height: 44px;
+  border-radius: 45px; 
+  top: 10px;
+  left: 10px;
+  position: absolute;
+}
+
+.photo {
+  width: 348px;
+  height: 230px;
+  border-radius: 19px; 
+  margin-top: 175px;
+  margin-left: 19px;
+}
+
+
+.userName {
+  width: 188px;
+  height: 21px;
+  position: absolute;
+  color: black;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 20px;
+  font-weight:900;
+  margin-top: 10px;
+  margin-left: 70px;
+  margin-bottom: 18px;
+}
+
+.postDate{
+  width: 110px;
+  height: 13px;
+  color: black;
+  position: absolute;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 13px;
+  font-weight: bolder;
+  margin-top: 40px;
+  margin-left: 70px;
+  margin-bottom: 18px;
+}
+
+.title{
+  width: 353px;
+  height: 84px;
+  color: black;
+  position: absolute;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 22px;
+  font-weight: bolder;
+  margin-top: 88px;
+  margin-left: 19px;
+  margin-bottom: 18px;
+}
+
+.avatars {
+  width: 45px;
+  height: 44px;
+  border-radius: 45px; 
+  top: 520px;
+  left: 10px;
+  position: absolute;
+}
+
+.photos {
+  width: 100%;
+  height: 500px;
+  border-radius: 9px 9px 0px 0px; 
+}
+
+.titles{
+  width: 800px;
+  height: 200px;
+  color: black;
+  position: absolute;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 22px;
+  font-weight: bolder;
+  margin-top: 88px;
+  margin-left: 19px;
+}
+
+/* 
+@keyframes shine-lines {
+  0% {
+    background-position: -100px;
+  }
+
+  60%,
+  100% {
+    background-position: 140px;
+  }
+}
+ */
